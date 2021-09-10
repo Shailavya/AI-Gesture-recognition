@@ -22,7 +22,9 @@
 }
 
 canvas{
+    margin-top: 38px;
     border: 5ox solid white;
     border-radius: 20px;
     box-shadow: 5px 5px 5px grey;
+    margin-left: 40px;
 }
